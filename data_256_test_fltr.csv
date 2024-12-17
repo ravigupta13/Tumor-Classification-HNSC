@@ -1,0 +1,6 @@
+path,label
+/workspace/hnsc_for_tumor/tum_ntum/tum_ntum_new/coords_256_g_new_fltr/tumor/TCGA-CQ-5329-01Z-00-DX1.csv,tumor
+/workspace/hnsc_for_tumor/tum_ntum/tum_ntum_new/coords_256_g_new_fltr/tumor/TCGA-D6-6516-01Z-00-DX1.csv,tumor
+/workspace/hnsc_for_tumor/tum_ntum/tum_ntum_new/coords_256_g_new_fltr/non_tumor/TCGA-CQ-5329-01Z-00-DX1.csv,non_tumor
+/workspace/hnsc_for_tumor/tum_ntum/tum_ntum_new/coords_256_g_fltr/non_tumor/TCGA-BA-A6DB-01Z-00-DX1.csv,non_tumor
+/workspace/hnsc_for_tumor/tum_ntum/tum_ntum_new/coords_256_g_fltr/tumor/TCGA-BA-6869-01Z-00-DX1.csv,tumor
